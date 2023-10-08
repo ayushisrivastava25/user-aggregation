@@ -1,0 +1,5 @@
+[
+ {"userId": 1, "date": "2022-12-31", "post": 3, "likesReceived": 6},
+ {"userId": 1, "date": "2023-01-01", "post": 3},
+ {"userId": 2, "date": "2023-01-01", "post": 3, "comment": 3}
+]

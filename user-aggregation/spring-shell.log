@@ -1,0 +1,67 @@
+1696762882604:aggregate-events
+1696763850861:-i
+1696764868951:./aggregate_events
+1696765069350:web-save --url https://www.google.com --out contents.txt
+1696765101845:aggregate-events
+1696765288020:aggregate-events -out contents.txt
+1696765354869:aggregate-events -out
+1696765394298:aggregate-events --out
+1696765408001:aggregate-events --out cotent.txt
+1696765422848:aggregate-events -out content.txt
+1696765675422:aggregate-events -in input.json -out content.txt
+1696765763448:aggregate-events -n input.json -out content.txt
+1696765782945:aggregate-events -i input.json -o content.txt
+1696765876613:aggregate-events -o output.json
+1696765891057:aggregate-events -out output.json
+1696765937862:aggregate-events -o output.txt
+1696765977994:aggregate-events -out content.txt
+1696765989619:aggregate-events -in input.json -out content.txt
+1696766057464:aggregate-events -out content.txt
+1696766102666:aggregate-events --out content.txt
+1696766115487:aggregate-events -o content.txt
+1696766126147:aggregate-events -out "content.txt"
+1696766258831:aggregate-events
+1696766272542:heloo-world -o t.txt
+1696766285649:aggregate-events -o t.txt
+1696766370995:aggregate-events
+1696768080565:aggregate-events -o
+1696768170824:aggregate-events
+1696768185349:aggregate-events input.json
+1696768276774:aggregate-events i.json o.json
+1696768315205:aggregate-events -in i.json -out o.json
+1696768337304:aggregate-events i.json -out o.json
+1696768353732:aggregate-events i.json
+1696768431609:[
+1696768431618:{"userId": 1, "eventType": "post", "timestamp": 1672444800},
+1696768431623:{"userId": 1, "eventType": "likeReceived", "timestamp": 1672444801},
+1696768431628:{"userId": 1, "eventType": "likeReceived", "timestamp": 1672444802},
+1696768431633:{"userId": 1, "eventType": "post", "timestamp": 1672531200},
+1696768431639:{"userId": 2, "eventType": "comment", "timestamp": 1672531201},
+1696768431643:{"userId": 2, "eventType": "post", "timestamp": 1672531202}
+1696768434980:]
+1696768462208:hello-wold input.json output.json
+1696768475931:aggregate-events input.json output.json
+1696779679385:aggregate-events input.json ou.json
+1696779841328:aggregate-events input.json output.json
+1696780799324:aggregate-events input.json output.json --update
+1696780806547:aggregate-events input.json output.json -update
+1696780815469:aggregate-events input.json output.json input.json
+1696781027796:aggregate-events input.json output.json --update
+1696781038401:aggregate-events input.json output.json -update
+1696781056726:aggregate-events input.json output.json -update update
+1696781072351:aggregate-events input.json output.json -update "update"
+1696781097380:aggregate-events input.json output.json update
+1696781225487:aggregate-events input.json output.json
+1696781238706:aggregate-events input.json output.json create
+1696785803198:aggregate-events input.json output.json update
+1696785832210:aggregate-events input.json output.json create
+1696785879040:aggregate-events input.json output.json update
+1696786366786:aggregate-events input.json output.json create
+1696786421056:aggregate-events input.json output.json update
+1696786594327:aggregate-events input.json output.json create
+1696786604717:aggregate-events input.json output.json update
+1696788719409:aggregate-events input.json output.json create
+1696788804898:aggregate-events input.json output.json update
+1696791097497:[
+1696791110408:aggregate-events input.json output.json update
+1696791114445:aggregate-events input.json output.json update
